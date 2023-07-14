@@ -10,12 +10,11 @@ body {
 footer {
     background-color:  #FFEEAD;
     text-align: center;
-    border-radius: 75%;
+    
 }
 header {
     background-color: #FFEEAD;
     color: #D9534F;
-    border-radius: 75%;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
